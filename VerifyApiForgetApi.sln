@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerifyApiForgetApi", "VerifyApiForgetApi.csproj", "{DF54FD23-34E2-4339-BCBC-472818FC1396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF54FD23-34E2-4339-BCBC-472818FC1396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF54FD23-34E2-4339-BCBC-472818FC1396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF54FD23-34E2-4339-BCBC-472818FC1396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF54FD23-34E2-4339-BCBC-472818FC1396}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B299F7CB-545A-428E-AE46-E7676953659B}
+	EndGlobalSection
+EndGlobal
